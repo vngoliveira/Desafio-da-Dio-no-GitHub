@@ -1,0 +1,16 @@
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Projeto 10 - Questão 6 da Lista 4\bin\Debug\net5.0\Projeto 10 - Questão 6 da Lista 4.exe
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Projeto 10 - Questão 6 da Lista 4\bin\Debug\net5.0\Projeto 10 - Questão 6 da Lista 4.deps.json
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Projeto 10 - Questão 6 da Lista 4\bin\Debug\net5.0\Projeto 10 - Questão 6 da Lista 4.runtimeconfig.json
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Projeto 10 - Questão 6 da Lista 4\bin\Debug\net5.0\Projeto 10 - Questão 6 da Lista 4.runtimeconfig.dev.json
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Projeto 10 - Questão 6 da Lista 4\bin\Debug\net5.0\Projeto 10 - Questão 6 da Lista 4.dll
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Projeto 10 - Questão 6 da Lista 4\bin\Debug\net5.0\ref\Projeto 10 - Questão 6 da Lista 4.dll
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Projeto 10 - Questão 6 da Lista 4\bin\Debug\net5.0\Projeto 10 - Questão 6 da Lista 4.pdb
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Projeto 10 - Questão 6 da Lista 4\obj\Debug\net5.0\Projeto 10 - Questão 6 da Lista 4.csproj.AssemblyReference.cache
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Projeto 10 - Questão 6 da Lista 4\obj\Debug\net5.0\Projeto 10 - Questão 6 da Lista 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Projeto 10 - Questão 6 da Lista 4\obj\Debug\net5.0\Projeto 10 - Questão 6 da Lista 4.AssemblyInfoInputs.cache
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Projeto 10 - Questão 6 da Lista 4\obj\Debug\net5.0\Projeto 10 - Questão 6 da Lista 4.AssemblyInfo.cs
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Projeto 10 - Questão 6 da Lista 4\obj\Debug\net5.0\Projeto 10 - Questão 6 da Lista 4.csproj.CoreCompileInputs.cache
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Projeto 10 - Questão 6 da Lista 4\obj\Debug\net5.0\Projeto 10 - Questão 6 da Lista 4.dll
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Projeto 10 - Questão 6 da Lista 4\obj\Debug\net5.0\ref\Projeto 10 - Questão 6 da Lista 4.dll
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Projeto 10 - Questão 6 da Lista 4\obj\Debug\net5.0\Projeto 10 - Questão 6 da Lista 4.pdb
+C:\Users\vivi4\OneDrive\Documentos\Algoritmos e Códigos\Programação\Projeto 10 - Questão 6 da Lista 4\obj\Debug\net5.0\Projeto 10 - Questão 6 da Lista 4.genruntimeconfig.cache

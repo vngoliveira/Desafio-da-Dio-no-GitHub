@@ -1,0 +1,32 @@
+C:\Users\vivi4\OneDrive\Documentos\Programação\Projeto 3\bin\Debug\net5.0\Projeto 3.exe
+C:\Users\vivi4\OneDrive\Documentos\Programação\Projeto 3\bin\Debug\net5.0\Projeto 3.deps.json
+C:\Users\vivi4\OneDrive\Documentos\Programação\Projeto 3\bin\Debug\net5.0\Projeto 3.runtimeconfig.json
+C:\Users\vivi4\OneDrive\Documentos\Programação\Projeto 3\bin\Debug\net5.0\Projeto 3.runtimeconfig.dev.json
+C:\Users\vivi4\OneDrive\Documentos\Programação\Projeto 3\bin\Debug\net5.0\Projeto 3.dll
+C:\Users\vivi4\OneDrive\Documentos\Programação\Projeto 3\bin\Debug\net5.0\ref\Projeto 3.dll
+C:\Users\vivi4\OneDrive\Documentos\Programação\Projeto 3\bin\Debug\net5.0\Projeto 3.pdb
+C:\Users\vivi4\OneDrive\Documentos\Programação\Projeto 3\obj\Debug\net5.0\Projeto 3.csproj.AssemblyReference.cache
+C:\Users\vivi4\OneDrive\Documentos\Programação\Projeto 3\obj\Debug\net5.0\Projeto 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivi4\OneDrive\Documentos\Programação\Projeto 3\obj\Debug\net5.0\Projeto 3.AssemblyInfoInputs.cache
+C:\Users\vivi4\OneDrive\Documentos\Programação\Projeto 3\obj\Debug\net5.0\Projeto 3.AssemblyInfo.cs
+C:\Users\vivi4\OneDrive\Documentos\Programação\Projeto 3\obj\Debug\net5.0\Projeto 3.csproj.CoreCompileInputs.cache
+C:\Users\vivi4\OneDrive\Documentos\Programação\Projeto 3\obj\Debug\net5.0\Projeto 3.dll
+C:\Users\vivi4\OneDrive\Documentos\Programação\Projeto 3\obj\Debug\net5.0\ref\Projeto 3.dll
+C:\Users\vivi4\OneDrive\Documentos\Programação\Projeto 3\obj\Debug\net5.0\Projeto 3.pdb
+C:\Users\vivi4\OneDrive\Documentos\Programação\Projeto 3\obj\Debug\net5.0\Projeto 3.genruntimeconfig.cache
+C:\Users\vivi4\OneDrive\Documentos\Programação\Projeto 3 - Questão 1 da Lista 3\bin\Debug\net5.0\Projeto 3.exe
+C:\Users\vivi4\OneDrive\Documentos\Programação\Projeto 3 - Questão 1 da Lista 3\bin\Debug\net5.0\Projeto 3.deps.json
+C:\Users\vivi4\OneDrive\Documentos\Programação\Projeto 3 - Questão 1 da Lista 3\bin\Debug\net5.0\Projeto 3.runtimeconfig.json
+C:\Users\vivi4\OneDrive\Documentos\Programação\Projeto 3 - Questão 1 da Lista 3\bin\Debug\net5.0\Projeto 3.runtimeconfig.dev.json
+C:\Users\vivi4\OneDrive\Documentos\Programação\Projeto 3 - Questão 1 da Lista 3\bin\Debug\net5.0\Projeto 3.dll
+C:\Users\vivi4\OneDrive\Documentos\Programação\Projeto 3 - Questão 1 da Lista 3\bin\Debug\net5.0\ref\Projeto 3.dll
+C:\Users\vivi4\OneDrive\Documentos\Programação\Projeto 3 - Questão 1 da Lista 3\bin\Debug\net5.0\Projeto 3.pdb
+C:\Users\vivi4\OneDrive\Documentos\Programação\Projeto 3 - Questão 1 da Lista 3\obj\Debug\net5.0\Projeto 3.csproj.AssemblyReference.cache
+C:\Users\vivi4\OneDrive\Documentos\Programação\Projeto 3 - Questão 1 da Lista 3\obj\Debug\net5.0\Projeto 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivi4\OneDrive\Documentos\Programação\Projeto 3 - Questão 1 da Lista 3\obj\Debug\net5.0\Projeto 3.AssemblyInfoInputs.cache
+C:\Users\vivi4\OneDrive\Documentos\Programação\Projeto 3 - Questão 1 da Lista 3\obj\Debug\net5.0\Projeto 3.AssemblyInfo.cs
+C:\Users\vivi4\OneDrive\Documentos\Programação\Projeto 3 - Questão 1 da Lista 3\obj\Debug\net5.0\Projeto 3.csproj.CoreCompileInputs.cache
+C:\Users\vivi4\OneDrive\Documentos\Programação\Projeto 3 - Questão 1 da Lista 3\obj\Debug\net5.0\Projeto 3.dll
+C:\Users\vivi4\OneDrive\Documentos\Programação\Projeto 3 - Questão 1 da Lista 3\obj\Debug\net5.0\ref\Projeto 3.dll
+C:\Users\vivi4\OneDrive\Documentos\Programação\Projeto 3 - Questão 1 da Lista 3\obj\Debug\net5.0\Projeto 3.pdb
+C:\Users\vivi4\OneDrive\Documentos\Programação\Projeto 3 - Questão 1 da Lista 3\obj\Debug\net5.0\Projeto 3.genruntimeconfig.cache

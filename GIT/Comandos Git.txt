@@ -1,0 +1,9 @@
+Comandos Git
+
+git init = cria um novo repositório do Git; pode ser usado para converter um projeto existente e não versionado em um repositório do Git ou inicializar um novo repositório vazio.
+git clone = clona repositório remoto
+git add = adiciona uma alteração no diretório
+git push = publica alterações da versão em servidor remoto
+git pull = atualiza repositório local de acordo com o remoto
+git merge = junta duas branchs que foram alteradas
+git status = mostra informações de estado sobre o projeto atual
